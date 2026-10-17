@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/dask/dask-gateway/commit/1fc81895c806bc0d66b10f81d7cca1b716372c67",
       "git:hexsha": "1fc81895c806bc0d66b10f81d7cca1b716372c67",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T03:47:21.742023+00:00"
     },
     {
       "@id": "https://repolex.ai/r/dask/dask-gateway/commit/d0cc75bdc4ecc28c48708f1cafd012a9dbfb94b9",
