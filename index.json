@@ -1,0 +1,11 @@
+{
+  "org": "dask",
+  "repo": "dask-gateway",
+  "versions": [
+    {
+      "commit": "1fc81895c806bc0d66b10f81d7cca1b716372c67",
+      "tag": "",
+      "parsed_at": "2026-10-17T03:47:21.742643+00:00"
+    }
+  ]
+}
